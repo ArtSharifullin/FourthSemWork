@@ -1,0 +1,39 @@
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.deps.json
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.pdb
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.AssemblyInfo.cs
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.sourcelink.json
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/refint/SocialNetwork.Infrastructure.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.pdb
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Infrastructure/obj/Debug/net8.0/ref/SocialNetwork.Infrastructure.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.deps.json
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/bin/Debug/net8.0/SocialNetwork.Infrastructure.pdb
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.csproj.AssemblyReference.cache
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.AssemblyInfoInputs.cache
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.AssemblyInfo.cs
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.sourcelink.json
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/refint/SocialNetwork.Infrastructure.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/SocialNetwork.Infrastructure.pdb
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Infrastructure/obj/Debug/net8.0/ref/SocialNetwork.Infrastructure.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.deps.json
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\bin\Debug\net8.0\SocialNetwork.Infrastructure.pdb
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.AssemblyInfo.cs
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.sourcelink.json
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\refint\SocialNetwork.Infrastructure.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\SocialNetwork.Infrastructure.pdb
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Infrastructure\obj\Debug\net8.0\ref\SocialNetwork.Infrastructure.dll

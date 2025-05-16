@@ -1,0 +1,11 @@
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\bin\Debug\net8.0\Elomoas.Shared.deps.json
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\bin\Debug\net8.0\Elomoas.Shared.dll
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\bin\Debug\net8.0\Elomoas.Shared.pdb
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.AssemblyInfoInputs.cache
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.AssemblyInfo.cs
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.dll
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\refint\Elomoas.Shared.dll
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\Elomoas.Shared.pdb
+C:\Users\SHIDO\Music\Elomoas\SocialNetwork.Shared\obj\Debug\net8.0\ref\Elomoas.Shared.dll

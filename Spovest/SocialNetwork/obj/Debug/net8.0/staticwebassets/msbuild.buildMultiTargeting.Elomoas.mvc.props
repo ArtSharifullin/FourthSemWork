@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Elomoas.mvc.props" />
+</Project>

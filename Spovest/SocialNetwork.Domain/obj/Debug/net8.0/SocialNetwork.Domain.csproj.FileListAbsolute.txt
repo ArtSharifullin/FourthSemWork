@@ -1,0 +1,36 @@
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.deps.json
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.pdb
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.AssemblyInfoInputs.cache
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.AssemblyInfo.cs
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.sourcelink.json
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/refint/SocialNetwork.Domain.dll
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.pdb
+C:/Users/SHIDO/source/repos/SocialNetwork/SocialNetwork.Domain/obj/Debug/net8.0/ref/SocialNetwork.Domain.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.deps.json
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/bin/Debug/net8.0/SocialNetwork.Domain.pdb
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.AssemblyInfoInputs.cache
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.AssemblyInfo.cs
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.csproj.CoreCompileInputs.cache
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.sourcelink.json
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/refint/SocialNetwork.Domain.dll
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/SocialNetwork.Domain.pdb
+/Users/tagirahmetsin/Downloads/SocialNetwork 3/SocialNetwork.Domain/obj/Debug/net8.0/ref/SocialNetwork.Domain.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.deps.json
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\bin\Debug\net8.0\SocialNetwork.Domain.pdb
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.AssemblyInfoInputs.cache
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.AssemblyInfo.cs
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.sourcelink.json
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\refint\SocialNetwork.Domain.dll
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\SocialNetwork.Domain.pdb
+C:\Users\SHIDO\Music\SocialNetwork 3\SocialNetwork.Domain\obj\Debug\net8.0\ref\SocialNetwork.Domain.dll
