@@ -1,0 +1,23 @@
+/* Анимация для увеличения цены */
+.price-up {
+    color: #4caf50;
+    animation: priceChange 1s ease-out;
+}
+
+/* Анимация для уменьшения цены */
+.price-down {
+    color: #f44336;
+    animation: priceChange 1s ease-out;
+}
+
+@keyframes priceChange {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+} 

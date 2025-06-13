@@ -1,0 +1,36 @@
+C:\Programing\Oris\Spovest\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.deps.json
+C:\Programing\Oris\Spovest\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\Spovest\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfoInputs.cache
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfo.cs
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.CoreCompileInputs.cache
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\refint\Spovest.Domain.dll
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\ref\Spovest.Domain.dll
+C:\Programing\Oris\Spovest\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.AssemblyReference.cache
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.deps.json
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.AssemblyReference.cache
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfoInputs.cache
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfo.cs
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.CoreCompileInputs.cache
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\refint\Spovest.Domain.dll
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\2 Spovest сигналр джс\Spovest.Domain\obj\Debug\net8.0\ref\Spovest.Domain.dll
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.deps.json
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\bin\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.AssemblyReference.cache
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfoInputs.cache
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.AssemblyInfo.cs
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.csproj.CoreCompileInputs.cache
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.dll
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\refint\Spovest.Domain.dll
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\Spovest.Domain.pdb
+C:\Programing\Oris\Spovest — копия\Spovest.Domain\obj\Debug\net8.0\ref\Spovest.Domain.dll

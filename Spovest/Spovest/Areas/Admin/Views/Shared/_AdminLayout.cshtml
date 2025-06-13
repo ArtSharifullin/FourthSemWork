@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>@ViewData["Title"] - Spovest Admin</title>
+    <!--favicon for this document-->
+    <link rel="shortcut icon" href="~/images/favicon.png" type="image/x-icon">
+    <!--keywords for this  document-->
+    <meta name="keywords" content="Fantasy, Sports, Stock, Exchange, HTML Template">
+    <!--description for this document-->
+    <meta name="description" content="Fantasy Sports Stock Exchange HTML Template">
+    <!--author of this document-->
+    <meta name="author" content="pixelaxis">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/img/favicon/favicon.ico" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&ampdisplay=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/fonts/iconify-icons.css" />
+
+    <!-- Core CSS -->
+    <!-- build:css assets/vendor/css/theme.css  -->
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/node-waves/node-waves.css" />
+
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/pickr/pickr-themes.css" />
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/css/core.css" />
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/css/demo.css" />
+
+
+    <!-- Vendors CSS -->
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+
+    <!-- endbuild -->
+
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/datatables-bs5/datatables.bootstrap5.css" />
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css" />
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/datatables-buttons-bs5/buttons.bootstrap5.css" />
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/select2/select2.css" />
+    <link rel="stylesheet" href="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/@@form-validation/form-validation.css" />
+</head>
+
+<body class="cs dark">
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/js/helpers.js"></script>
+    <!-- Layout wrapper -->
+    <div class="layout-wrapper layout-content-navbar  ">
+        <div class="layout-container">
+            @Html.Partial("_LeftSideBar")
+            <div class="layout-page">
+                @Html.Partial("_Header")
+				@RenderBody()
+            </div>
+            <!-- Overlay -->
+            <div class="layout-overlay layout-menu-toggle"></div>
+            <!-- Drag Target Area To SlideIn Menu On Small Screens -->
+            <div class="drag-target"></div>
+            <!-- / Layout wrapper -->
+            
+        </div>
+    </div>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/jquery/jquery.js"></script>
+
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/popper/popper.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/js/bootstrap.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/node-waves/node-waves.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/@@algolia/autocomplete-js.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/pickr/pickr.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/hammer/hammer.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/i18n/i18n.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/js/menu.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/moment/moment.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/datatables-bs5/datatables-bootstrap5.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/select2/select2.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/@@form-validation/popular.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/@@form-validation/bootstrap5.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/@@form-validation/auto-focus.js"></script>
+    <script src="https://demos.pixinvent.com/vuexy-html-admin-template/assets/vendor/libs/cleave-zen/cleave-zen.js"></script>
+    <!-- Core JS -->
+    <script src="~/admin/assets/vendor/libs/jquery/jquery.js"></script>
+    <script src="~/admin/assets/vendor/libs/popper/popper.js"></script>
+    <script src="~/admin/assets/vendor/js/bootstrap.js"></script>
+    <script src="~/admin/assets/vendor/libs/node-waves/node-waves.js"></script>
+    <script src="~/admin/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="~/admin/assets/vendor/libs/hammer/hammer.js"></script>
+    <script src="~/admin/assets/vendor/js/menu.js"></script>
+
+    <!-- Main JS -->
+    <script src="~/admin/assets/js/main.js"></script>
+    <script src="~/js/admin-menu.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

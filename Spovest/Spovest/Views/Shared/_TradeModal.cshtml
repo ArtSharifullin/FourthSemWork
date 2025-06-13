@@ -1,0 +1,101 @@
+@model Spovest.Models.Main.MainViewModel
+
+<div class="modal fade" id="tradeModal" tabindex="-1" aria-labelledby="tradeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="tradeModalLabel">Trade Shares</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="trade-content">
+                    <div class="d-flex justify-content-center mb-4">
+                        <button class="btn btn-primary mx-2 trade-tab active" data-tab="buy">BUY</button>
+                        <button class="btn btn-primary mx-2 trade-tab" data-tab="sell">SELL</button>
+                    </div>
+
+                    <div id="buyContent" class="trade-tab-content active">
+                        <form id="buyForm" method="post">
+                            <input type="hidden" id="buyPlayerId" name="playerId" />
+                            <div class="form-group">
+                                <label>Current Price: $<span id="buyCurrentPrice">0.00</span></label>
+                            </div>
+                            <div class="form-group">
+                                <label>Your Balance: $<span id="userBalance">0.00</span></label>
+                                <small class="text-muted d-block">Maximum shares you can buy: <span id="maxPossibleShares">0</span></small>
+                            </div>
+                            <div class="form-group">
+                                <label>Amount of Shares to Buy</label>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <button type="button" class="btn btn-secondary minus-btn">-</button>
+                                    <input type="number" id="buyQuantity" name="quantity" class="form-control mx-2 text-center" value="1" min="1" style="width: 100px" />
+                                    <button type="button" class="btn btn-secondary plus-btn">+</button>
+                                </div>
+                                <div class="invalid-feedback" id="buyError"></div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <label>Total Cost: $<span id="buyTotalCost">0.00</span></label>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div id="sellContent" class="trade-tab-content">
+                        <form id="sellForm" method="post">
+                            <input type="hidden" id="sellPlayerId" name="playerId" />
+                            <div class="form-group">
+                                <label>Current Price: $<span id="sellCurrentPrice">0.00</span></label>
+                            </div>
+                            <div class="form-group">
+                                <label>Your Shares: <span id="userShares">0</span></label>
+                                <small class="text-muted d-block">Current shares available for sale: <span id="currentShares">0</span></small>
+                            </div>
+                            <div class="form-group">
+                                <label>Amount of Shares to Sell</label>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <button type="button" class="btn btn-secondary minus-btn">-</button>
+                                    <input type="number" id="sellQuantity" name="quantity" class="form-control mx-2 text-center" value="1" min="1" style="width: 100px" />
+                                    <button type="button" class="btn btn-secondary plus-btn">+</button>
+                                </div>
+                                <div class="invalid-feedback" id="sellError"></div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <label>Total Return: $<span id="sellTotalReturn">0.00</span></label>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="confirmTradeBtn">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .trade-tab-content {
+        display: none;
+    }
+
+    .trade-tab-content.active {
+        display: block;
+    }
+
+    .trade-tab.active {
+        background-color: #0d6efd;
+        color: white;
+    }
+
+    .invalid-feedback {
+        display: none;
+    }
+
+    .form-control.is-invalid ~ .invalid-feedback {
+        display: block;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+</style> 

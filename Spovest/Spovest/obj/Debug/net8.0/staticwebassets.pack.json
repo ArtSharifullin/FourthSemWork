@@ -1,0 +1,1953 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Spovest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Spovest.xwe8vuvh5i.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\button.css",
+      "PackagePath": "staticwebassets\\css\\button.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\price-updates.css",
+      "PackagePath": "staticwebassets\\css\\price-updates.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\validation.css",
+      "PackagePath": "staticwebassets\\css\\validation.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\animate.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animate.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\core.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\core.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\css\\vendor\\pages\\cards-advance.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\pages\\cards-advance.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flag-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\flag-icons.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\1x1\\xx.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\1x1\\xx.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\flags\\4x3\\xx.svg",
+      "PackagePath": "staticwebassets\\fonts\\flags\\4x3\\xx.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\fonts\\iconify-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\iconify-icons.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\Logo-dark-n.png",
+      "PackagePath": "staticwebassets\\images\\Logo-dark-n.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\about_banner_bg.png",
+      "PackagePath": "staticwebassets\\images\\about\\about_banner_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\about_banner_illustration.png",
+      "PackagePath": "staticwebassets\\images\\about\\about_banner_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\illustration.png",
+      "PackagePath": "staticwebassets\\images\\about\\illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\players.png",
+      "PackagePath": "staticwebassets\\images\\about\\players.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\team_1.png",
+      "PackagePath": "staticwebassets\\images\\about\\team_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\team_2.png",
+      "PackagePath": "staticwebassets\\images\\about\\team_2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\team_3.png",
+      "PackagePath": "staticwebassets\\images\\about\\team_3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\team_4.png",
+      "PackagePath": "staticwebassets\\images\\about\\team_4.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\users.png",
+      "PackagePath": "staticwebassets\\images\\about\\users.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\about\\volume.png",
+      "PackagePath": "staticwebassets\\images\\about\\volume.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\avatars\\2.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\avatars\\9.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\9.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\buy\\buy_illustration.png",
+      "PackagePath": "staticwebassets\\images\\buy\\buy_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\buy\\invest.png",
+      "PackagePath": "staticwebassets\\images\\buy\\invest.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\buy\\players.png",
+      "PackagePath": "staticwebassets\\images\\buy\\players.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\buy\\trade.png",
+      "PackagePath": "staticwebassets\\images\\buy\\trade.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\competition\\home_two_footer_bg.png",
+      "PackagePath": "staticwebassets\\images\\competition\\home_two_footer_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\competition\\home_two_footer_overlay.png",
+      "PackagePath": "staticwebassets\\images\\competition\\home_two_footer_overlay.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\call.png",
+      "PackagePath": "staticwebassets\\images\\contact\\call.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\contact_banner_bg.png",
+      "PackagePath": "staticwebassets\\images\\contact\\contact_banner_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\contact_banner_illustration.png",
+      "PackagePath": "staticwebassets\\images\\contact\\contact_banner_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\email.png",
+      "PackagePath": "staticwebassets\\images\\contact\\email.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\contact\\facebook.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\google.png",
+      "PackagePath": "staticwebassets\\images\\contact\\google.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\read_bg.png",
+      "PackagePath": "staticwebassets\\images\\contact\\read_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\registration_bg.png",
+      "PackagePath": "staticwebassets\\images\\contact\\registration_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\contact\\visit.png",
+      "PackagePath": "staticwebassets\\images\\contact\\visit.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\experience\\basketball_player.png",
+      "PackagePath": "staticwebassets\\images\\experience\\basketball_player.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\experience\\bg.png",
+      "PackagePath": "staticwebassets\\images\\experience\\bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\experience\\football_player.png",
+      "PackagePath": "staticwebassets\\images\\experience\\football_player.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\ac-icon.png",
+      "PackagePath": "staticwebassets\\images\\faq\\ac-icon.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\faq_banner_bg.png",
+      "PackagePath": "staticwebassets\\images\\faq\\faq_banner_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\faq_banner_illustration.png",
+      "PackagePath": "staticwebassets\\images\\faq\\faq_banner_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\faq_bg.png",
+      "PackagePath": "staticwebassets\\images\\faq\\faq_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\general.png",
+      "PackagePath": "staticwebassets\\images\\faq\\general.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\faq\\sports.png",
+      "PackagePath": "staticwebassets\\images\\faq\\sports.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\abel.png",
+      "PackagePath": "staticwebassets\\images\\followers\\abel.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\abel_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\abel_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\affiliate_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\affiliate_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\alyssa.png",
+      "PackagePath": "staticwebassets\\images\\followers\\alyssa.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\boone.png",
+      "PackagePath": "staticwebassets\\images\\followers\\boone.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\debra.png",
+      "PackagePath": "staticwebassets\\images\\followers\\debra.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\debra_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\debra_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\dennis.png",
+      "PackagePath": "staticwebassets\\images\\followers\\dennis.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\dennis_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\dennis_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\elena.png",
+      "PackagePath": "staticwebassets\\images\\followers\\elena.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\elena_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\elena_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\eva.png",
+      "PackagePath": "staticwebassets\\images\\followers\\eva.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\gera.png",
+      "PackagePath": "staticwebassets\\images\\followers\\gera.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\gina.png",
+      "PackagePath": "staticwebassets\\images\\followers\\gina.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\gina_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\gina_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\greg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\greg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\joanna.png",
+      "PackagePath": "staticwebassets\\images\\followers\\joanna.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\kurt.png",
+      "PackagePath": "staticwebassets\\images\\followers\\kurt.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\kurt_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\kurt_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\larry.png",
+      "PackagePath": "staticwebassets\\images\\followers\\larry.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\larry_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\larry_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\lionel.png",
+      "PackagePath": "staticwebassets\\images\\followers\\lionel.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\lyle.png",
+      "PackagePath": "staticwebassets\\images\\followers\\lyle.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\lyle_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\lyle_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\megan.png",
+      "PackagePath": "staticwebassets\\images\\followers\\megan.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\megan_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\megan_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\noel.png",
+      "PackagePath": "staticwebassets\\images\\followers\\noel.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\noel_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\noel_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\ollie.png",
+      "PackagePath": "staticwebassets\\images\\followers\\ollie.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\ollie_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\ollie_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\sam.png",
+      "PackagePath": "staticwebassets\\images\\followers\\sam.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\sam_bg.png",
+      "PackagePath": "staticwebassets\\images\\followers\\sam_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\followers\\wise.png",
+      "PackagePath": "staticwebassets\\images\\followers\\wise.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\footer\\apple_store.png",
+      "PackagePath": "staticwebassets\\images\\footer\\apple_store.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\footer\\google_store.png",
+      "PackagePath": "staticwebassets\\images\\footer\\google_store.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\atlanta_logo.png",
+      "PackagePath": "staticwebassets\\images\\games\\atlanta_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\baltimore_logo.png",
+      "PackagePath": "staticwebassets\\images\\games\\baltimore_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\browns_logo.png",
+      "PackagePath": "staticwebassets\\images\\games\\browns_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\game_bg.png",
+      "PackagePath": "staticwebassets\\images\\games\\game_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\miami.png",
+      "PackagePath": "staticwebassets\\images\\games\\miami.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\new_logo.png",
+      "PackagePath": "staticwebassets\\images\\games\\new_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\games\\phoenix_logo.png",
+      "PackagePath": "staticwebassets\\images\\games\\phoenix_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\home_banner_lg_bg.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\home_banner_lg_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\home_banner_sm_bg.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\home_banner_sm_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\home_two_banner_illustration.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\home_two_banner_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\home_two_banner_lg_bg.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\home_two_banner_lg_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\home_two_banner_sm_bg.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\home_two_banner_sm_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\home_banner\\players.png",
+      "PackagePath": "staticwebassets\\images\\home_banner\\players.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.css",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.eot@d5aefea5121929283ae6c82120a11955",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.eot@d5aefea5121929283ae6c82120a11955"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.svg@d5aefea5121929283ae6c82120a11955",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.svg@d5aefea5121929283ae6c82120a11955"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.ttf@d5aefea5121929283ae6c82120a11955",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.ttf@d5aefea5121929283ae6c82120a11955"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.woff2@d5aefea5121929283ae6c82120a11955",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.woff2@d5aefea5121929283ae6c82120a11955"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\cs\\flaticon.woff@d5aefea5121929283ae6c82120a11955",
+      "PackagePath": "staticwebassets\\images\\icons\\cs\\flaticon.woff@d5aefea5121929283ae6c82120a11955"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.css",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.eot@d442db12eb2a974f40e5edbac198636a",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.eot@d442db12eb2a974f40e5edbac198636a"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.svg@d442db12eb2a974f40e5edbac198636a",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.svg@d442db12eb2a974f40e5edbac198636a"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.ttf@d442db12eb2a974f40e5edbac198636a",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.ttf@d442db12eb2a974f40e5edbac198636a"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.woff2@d442db12eb2a974f40e5edbac198636a",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.woff2@d442db12eb2a974f40e5edbac198636a"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\flat_icon\\flaticon.woff@d442db12eb2a974f40e5edbac198636a",
+      "PackagePath": "staticwebassets\\images\\icons\\flat_icon\\flaticon.woff@d442db12eb2a974f40e5edbac198636a"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.eot@",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.eot@"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.eot@",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.eot@"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.eot@",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.eot@"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\images\\icons\\font_awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\illustrations\\card-website-analytics-1.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\card-website-analytics-1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\illustrations\\card-website-analytics-2.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\card-website-analytics-2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\illustrations\\card-website-analytics-3.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\card-website-analytics-3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\invite\\invite_bg.png",
+      "PackagePath": "staticwebassets\\images\\invite\\invite_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\league\\cover_img.png",
+      "PackagePath": "staticwebassets\\images\\league\\cover_img.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\circle.png",
+      "PackagePath": "staticwebassets\\images\\play\\circle.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\illustration.png",
+      "PackagePath": "staticwebassets\\images\\play\\illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\multi.png",
+      "PackagePath": "staticwebassets\\images\\play\\multi.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\payment.png",
+      "PackagePath": "staticwebassets\\images\\play\\payment.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\play_banner_bg.png",
+      "PackagePath": "staticwebassets\\images\\play\\play_banner_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\play_banner_illustration.png",
+      "PackagePath": "staticwebassets\\images\\play\\play_banner_illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\support.png",
+      "PackagePath": "staticwebassets\\images\\play\\support.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\transparent.png",
+      "PackagePath": "staticwebassets\\images\\play\\transparent.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\play\\video_poster_one.png",
+      "PackagePath": "staticwebassets\\images\\play\\video_poster_one.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_1.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_2.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_3.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_4.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_4.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_5.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_5.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\avatar_6.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\avatar_6.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\basketball.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\basketball.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_1.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_2.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_3.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_4.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_4.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_5.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_5.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\chart_6.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\chart_6.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\player_search\\hockey.png",
+      "PackagePath": "staticwebassets\\images\\player_search\\hockey.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\ac-last.png",
+      "PackagePath": "staticwebassets\\images\\profile\\ac-last.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\ac-ref.png",
+      "PackagePath": "staticwebassets\\images\\profile\\ac-ref.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\images\\profile\\profile.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\profile_bg.png",
+      "PackagePath": "staticwebassets\\images\\profile\\profile_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\rules_bg.png",
+      "PackagePath": "staticwebassets\\images\\profile\\rules_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\profile\\trade_bg.png",
+      "PackagePath": "staticwebassets\\images\\profile\\trade_bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\circle_one.png",
+      "PackagePath": "staticwebassets\\images\\slider\\circle_one.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\circle_three.png",
+      "PackagePath": "staticwebassets\\images\\slider\\circle_three.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\circle_two.png",
+      "PackagePath": "staticwebassets\\images\\slider\\circle_two.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\line.png",
+      "PackagePath": "staticwebassets\\images\\slider\\line.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\trader_1.png",
+      "PackagePath": "staticwebassets\\images\\slider\\trader_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\trader_2.png",
+      "PackagePath": "staticwebassets\\images\\slider\\trader_2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\slider\\trader_3.png",
+      "PackagePath": "staticwebassets\\images\\slider\\trader_3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\bc.png",
+      "PackagePath": "staticwebassets\\images\\teams\\bc.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\bn.png",
+      "PackagePath": "staticwebassets\\images\\teams\\bn.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\dn.png",
+      "PackagePath": "staticwebassets\\images\\teams\\dn.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\gsw.png",
+      "PackagePath": "staticwebassets\\images\\teams\\gsw.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\lakers.png",
+      "PackagePath": "staticwebassets\\images\\teams\\lakers.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\teams\\mh.png",
+      "PackagePath": "staticwebassets\\images\\teams\\mh.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\testimonial\\ava_1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\ava_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\testimonial\\ava_2.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\ava_2.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\testimonial\\ava_3.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\ava_3.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\testimonial\\rv-bg.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\rv-bg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\ac-vs.png",
+      "PackagePath": "staticwebassets\\images\\user\\ac-vs.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\user\\arrow.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\atlanta_logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\atlanta_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\avatar_1.png",
+      "PackagePath": "staticwebassets\\images\\user\\avatar_1.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\badge.png",
+      "PackagePath": "staticwebassets\\images\\user\\badge.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\baltimore_logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\baltimore_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\browns_logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\browns_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\illustration.png",
+      "PackagePath": "staticwebassets\\images\\user\\illustration.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\member_four.png",
+      "PackagePath": "staticwebassets\\images\\user\\member_four.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\member_one.png",
+      "PackagePath": "staticwebassets\\images\\user\\member_one.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\member_three.png",
+      "PackagePath": "staticwebassets\\images\\user\\member_three.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\member_two.png",
+      "PackagePath": "staticwebassets\\images\\user\\member_two.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\miami.png",
+      "PackagePath": "staticwebassets\\images\\user\\miami.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\new_logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\new_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\phoenix_logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\phoenix_logo.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\profile-sm.png",
+      "PackagePath": "staticwebassets\\images\\user\\profile-sm.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\profile_lg.png",
+      "PackagePath": "staticwebassets\\images\\user\\profile_lg.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\side_bar_bg_four.png",
+      "PackagePath": "staticwebassets\\images\\user\\side_bar_bg_four.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\side_bar_bg_one.png",
+      "PackagePath": "staticwebassets\\images\\user\\side_bar_bg_one.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\side_bar_bg_three.png",
+      "PackagePath": "staticwebassets\\images\\user\\side_bar_bg_three.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\side_bar_bg_two.png",
+      "PackagePath": "staticwebassets\\images\\user\\side_bar_bg_two.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\stat.png",
+      "PackagePath": "staticwebassets\\images\\user\\stat.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\user\\vs.png",
+      "PackagePath": "staticwebassets\\images\\user\\vs.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\work\\arrow_left.png",
+      "PackagePath": "staticwebassets\\images\\work\\arrow_left.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\work\\arrow_right.png",
+      "PackagePath": "staticwebassets\\images\\work\\arrow_right.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\work\\deposit.png",
+      "PackagePath": "staticwebassets\\images\\work\\deposit.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\work\\market.png",
+      "PackagePath": "staticwebassets\\images\\work\\market.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\images\\work\\trade.png",
+      "PackagePath": "staticwebassets\\images\\work\\trade.png"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\admin-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\admin-dashboard.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\admin-menu.js",
+      "PackagePath": "staticwebassets\\js\\admin-menu.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\balanceUpdates.js",
+      "PackagePath": "staticwebassets\\js\\balanceUpdates.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\baltest.js",
+      "PackagePath": "staticwebassets\\js\\baltest.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\main_admin.js",
+      "PackagePath": "staticwebassets\\js\\main_admin.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\priceUpdates.js",
+      "PackagePath": "staticwebassets\\js\\priceUpdates.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\profile-sell-modal.js",
+      "PackagePath": "staticwebassets\\js\\profile-sell-modal.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\subscribe_actions.js",
+      "PackagePath": "staticwebassets\\js\\subscribe_actions.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\subscribe_update.js",
+      "PackagePath": "staticwebassets\\js\\subscribe_update.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\template-customizer.js",
+      "PackagePath": "staticwebassets\\js\\template-customizer.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\trade-modal.js",
+      "PackagePath": "staticwebassets\\js\\trade-modal.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\user_search.js",
+      "PackagePath": "staticwebassets\\js\\user_search.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\apex-customization.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\apex-customization.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\@algolia\\autocomplete-js.js",
+      "PackagePath": "staticwebassets\\lib\\@algolia\\autocomplete-js.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\lib\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\lib\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\datatables-bs5\\datatables-bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-bs5\\datatables-bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\datatables-bs5\\datatables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatables-bs5\\datatables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\datatables-responsive-bs5\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatables-responsive-bs5\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\hammer\\hammer.js",
+      "PackagePath": "staticwebassets\\lib\\hammer\\hammer.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\i18n\\i18n.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\i18n.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\node-waves\\node-waves.css",
+      "PackagePath": "staticwebassets\\lib\\node-waves\\node-waves.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\node-waves\\node-waves.js",
+      "PackagePath": "staticwebassets\\lib\\node-waves\\node-waves.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\pickr\\pickr-themes.css",
+      "PackagePath": "staticwebassets\\lib\\pickr\\pickr-themes.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\pickr\\pickr.js",
+      "PackagePath": "staticwebassets\\lib\\pickr\\pickr.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\swiper\\swiper.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\lib\\swiper\\swiper.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\about.html",
+      "PackagePath": "staticwebassets\\temp\\about.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\admin.html",
+      "PackagePath": "staticwebassets\\temp\\admin.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\app-user-list.html",
+      "PackagePath": "staticwebassets\\temp\\app-user-list.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\contact.html",
+      "PackagePath": "staticwebassets\\temp\\contact.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\index.html",
+      "PackagePath": "staticwebassets\\temp\\index.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\league.html",
+      "PackagePath": "staticwebassets\\temp\\league.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\login.html",
+      "PackagePath": "staticwebassets\\temp\\login.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\player-profile.html",
+      "PackagePath": "staticwebassets\\temp\\player-profile.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\signup.html",
+      "PackagePath": "staticwebassets\\temp\\signup.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\trade.html",
+      "PackagePath": "staticwebassets\\temp\\trade.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\user-about.html",
+      "PackagePath": "staticwebassets\\temp\\user-about.html"
+    },
+    {
+      "Id": "C:\\Programing\\Oris\\Spovest\\Spovest\\wwwroot\\temp\\user-portfolio.html",
+      "PackagePath": "staticwebassets\\temp\\user-portfolio.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Spovest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Spovest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Spovest.props",
+      "PackagePath": "build\\Spovest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Spovest.props",
+      "PackagePath": "buildMultiTargeting\\Spovest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Spovest.props",
+      "PackagePath": "buildTransitive\\Spovest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

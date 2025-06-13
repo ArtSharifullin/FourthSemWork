@@ -1,0 +1,55 @@
+@model Spovest.Areas.Admin.Models.Teams.TeamsVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Teams";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Teams /</span> List
+    </h4>
+
+    <div class="card">
+        <div class="card-header">
+            <h5 class="card-title mb-0">Teams</h5>
+        </div>
+        <div class="table-responsive text-nowrap">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Img</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var team in Model.Teams)
+                    {
+                        <tr>
+                            <td>@team.Id</td>
+                            <td>@team.Name</td>
+                            <td>@team.Img</td>
+                            <td>
+                                <div class="dropdown">
+                                    <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                        <i class="icon-base ti tabler-dots-vertical"></i>
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" asp-area="Admin" asp-action="Update" asp-route-id="@team.Id">
+                                            <i class="icon-base ti tabler-edit me-2"></i> Edit
+                                        </a>
+                                        <a class="dropdown-item" asp-area="Admin" asp-action="Remove" asp-route-id="@team.Id">
+                                            <i class="icon-base ti tabler-trash me-2"></i> Delete
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div> 

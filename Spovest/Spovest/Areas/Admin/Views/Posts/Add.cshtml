@@ -1,0 +1,58 @@
+@model Spovest.Areas.Admin.Models.Posts.PostFormVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Add Post";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Posts /</span> Add
+    </h4>
+
+    <div class="row">
+        <div class="col-xl">
+            <div class="card mb-4">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Add New Post</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Add" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="UserId" class="form-label">UserID</label>
+                            <input asp-for="UserId" type="number" min="0" class="form-control" />
+                            <span asp-validation-for="UserId" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Title</label>
+                            <input asp-for="Title" class="form-control" />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Content" class="form-label">Content</label>
+                            <textarea asp-for="Content" class="form-control" rows="5"></textarea>
+                            <span asp-validation-for="Content" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Img" class="form-label">Image URL</label>
+                            <input asp-for="Img" class="form-control" />
+                            <span asp-validation-for="Img" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Add Post</button>
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

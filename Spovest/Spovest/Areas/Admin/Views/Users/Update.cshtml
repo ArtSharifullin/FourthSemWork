@@ -1,0 +1,64 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Spovest.Areas.Admin.Models.Users.UserUpdateRemoveFormVM
+@{
+    ViewData["Title"] = "Edit User";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Users /</span> Edit
+    </h4>
+
+    <div class="row">
+        <div class="col-xl">
+            <div class="card mb-4">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Edit User</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Update" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Name</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" type="password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Country" class="form-label">Country</label>
+                            <input asp-for="Country" class="form-control" />
+                            <span asp-validation-for="Country" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Balance" class="form-label">Balance</label>
+                            <input asp-for="Balance" class="form-control" />
+                            <span asp-validation-for="Balance" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Save Changes</button>
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

@@ -1,0 +1,57 @@
+﻿@using Spovest.Helpers
+@model Spovest.Models.Main.MainViewModel
+<div class="col-xl-3 d-flex flex-column">
+    <div class="inner_right">
+        <div class="view_wrapper d-flex align-items-center justify-content-between">
+            <div class="text">
+                <h5>Пользователи</h5>
+            </div>
+            <div class="link">
+                <a asp-controller="Main" asp-action="Users">Посмотреть</a>
+            </div>
+        </div>
+        @{
+            var tempTeams = Model.Teams;
+            var teams = tempTeams.Take(12).ToList();
+            var baseTime = DateTime.Today.AddDays(1).AddHours(2);
+
+            for (int i = 0; i < teams.Count() - 1; i += 2)
+            {
+                var team1 = teams[i];
+                var team2 = teams[i + 1];
+
+                var matchTime = baseTime.AddHours(i / 2);
+                var formattedDate = matchTime.ToString("d MMMM yyyy");
+                var formattedTime = matchTime.ToString("hh:mm tt");
+
+                <div class="row">
+                    <div class="inner col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                        <div class="game_wrapper2">
+                            <div class="game_header d-flex align-items-start justify-content-around">
+                                <div class="left_col text-center">
+                                    <a asp-controller="Main" asp-action="NBA" asp-route-search="@team1.Name" style="text-decoration : none; color:black">
+                                        <img src="@team1.Img" alt="@team1.Name">
+                                        <p>@team1.Name</p>
+                                    </a>
+                                </div>
+                                <div class="middle_col d-flex align-items-start text-center">
+                                    <img src="~/images/user/ac-vs.png" alt="Versus">
+                                </div>
+                                <div class="right_col text-center">
+                                    <a asp-controller="Main" asp-action="NBA" asp-route-search="@team2.Name" style="text-decoration : none; color:black">
+                                        <img src="@team2.Img" alt="@team2.Name">
+                                        <p>@team2.Name</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="game_footer d-flex align-items-center justify-content-around">
+                                <p class="date">@formattedDate</p>
+                                <p class="time">@formattedTime</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

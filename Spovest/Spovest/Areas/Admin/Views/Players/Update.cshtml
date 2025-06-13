@@ -1,0 +1,91 @@
+@model Spovest.Areas.Admin.Models.Players.PlayerSubFormVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Edit Player";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Players /</span> Edit
+    </h4>
+
+    <div class="row">
+        <div class="col-xl">
+            <div class="card mb-4">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Edit Player</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Update" method="post">
+                        <div asp-validation-summary="All" class="text-danger mb-3"></div>
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Name</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="TeamName" class="form-label">Команда</label>
+                            <select asp-for="TeamName" asp-items="@(new SelectList(Model.Teams, "Name", "Name"))" class="form-select">
+                                <option value="">Выберите команду</option>
+                            </select>
+                            <span asp-validation-for="TeamName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Games" class="form-label">Games</label>
+                            <input asp-for="Games" type="number" class="form-control" />
+                            <span asp-validation-for="Games" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Points" class="form-label">Points</label>
+                            <input asp-for="Points" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="Points" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Assists" class="form-label">Assists</label>
+                            <input asp-for="Assists" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="Assists" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Rebounds" class="form-label">Rebounds</label>
+                            <input asp-for="Rebounds" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="Rebounds" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Steals" class="form-label">Steals</label>
+                            <input asp-for="Steals" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="Steals" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Minutes" class="form-label">Minutes</label>
+                            <input asp-for="Minutes" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="Minutes" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Ftps" class="form-label">Free Throw Percentage</label>
+                            <input asp-for="Ftps" type="number" step="0.01" class="form-control" />
+                            <span asp-validation-for="Ftps" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Save Changes</button>
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 
