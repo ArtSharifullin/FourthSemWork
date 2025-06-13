@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>@ViewData["Title"] - Spovest</title>
+    <!--favicon for this document-->
+    <link rel="shortcut icon" href="~/images/favicon.png" type="image/x-icon">
+    <!--bootstrap 5 minified css source-->
+    <link rel="stylesheet" href="~/css/vendor/bootstrap.min.css">
+    <!--fontawesome 5 minified css source-->
+    <link rel="stylesheet" href="~/icons/font_awesome/css/all.min.css">
+    <!--flaticon css source-->
+    <link rel="stylesheet" href="~/icons/flat_icon/flaticon.css">
+    <!--owl carousel-2.3.4 minified css source-->
+    <link rel="stylesheet" href="~/css/vendor/owl.carousel.min.css">
+    <!--owl carousel-2.3.4 theme default minified css source-->
+    <link rel="stylesheet" href="~/css/vendor/owl.theme.default.min.css">
+    <!--magnific popup css source-->
+    <link rel="stylesheet" href="~/css/vendor/magnific-popup.css">
+    <!--jquery nice select css source-->
+    <link rel="stylesheet" href="~/css/vendor/nice-select.css">
+    <!--animate css source-->
+    <link rel="stylesheet" href="~/css/vendor/animate.css">
+    <!--custom css start-->
+    <link rel="stylesheet" href="~/css/main.css">
+</head>
+
+<body class="dark">
+    <div class="preloader"></div>
+
+    <div class="main-wrapper">
+        @Html.Partial("HeaderPartial2")
+        @RenderBody() 
+        @Html.Partial("FooterPartial")
+    </div>
+
+    <!--===scroll bottom to top===-->
+    <a href="#" class="scrollToTop"><i class="flaticon-up-chevron">^</i></a>
+    <!--===scroll bottom to top===-->
+    
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

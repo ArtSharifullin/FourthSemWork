@@ -1,0 +1,120 @@
+﻿@model Spovest.Models.Main.MainViewModel
+@{
+    ViewData["Title"] = "Users";
+    Layout = "_MainLayout";
+}
+
+<div class="col-xl-9 d-flex flex-column">
+    <div class="inner_left">
+        <div class="league_cover_wrapper">
+            <div class="league_info" style="background-image: url('/images/league/cover_img.png');">
+                <p>SPOVEST</p>
+                <h1 class="name">
+                    Пользователи
+                </h1>
+            </div>
+            <div class="players_tab_wrapper">
+                <div class="player_search_tab_wrapper">
+                    <div class="search-container">
+                        <input type="text" 
+                               class="form-control" 
+                               id="searchInput" 
+                               placeholder="Поиск пользователей..."
+                               value="@Context.Request.Query["search"]">
+                    </div>
+                </div>
+                <div id="usersList" class="mt-5">
+                    <div class="players_responsive_table_wrapper">
+                        <table class="table">
+                            @foreach (var user in Model.Users)
+                            {
+                                if (user.UserId != Model.User.UserId)
+                                {
+                                    <tr>
+                                        <td class="profile_info">
+                                            <div class="d-flex align-items-center justify-content-start">
+                                                <div class="wrapper">
+                                                    <a asp-controller="Main" asp-action="Blog" asp-route-id="@user.UserId" class="d-flex align-items-end justify-content-center">
+                                                        <img src="@user.Img" alt="@user.Name">
+                                                    </a>
+                                                </div>
+                                                <div class="player_name ms-4">
+                                                    <a asp-controller="Main" asp-action="Blog" asp-route-id="@user.UserId" style="text-decoration: none; color:black;">@user.Name</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="sell_buy">
+                                            <div class="btn_wrapper d-flex align-items-center justify-content-end">
+                                                @if (Model.CurrentFollowing.Any(x => x.UserId == user.UserId))
+                                                {
+                                                    <button class="btn btn-primary3 subscribe-btn" 
+                                                            data-user-id="@user.UserId" 
+                                                            data-action="unsubscribe">
+                                                        Unfollow
+                                                    </button>
+                                                }
+                                                else
+                                                {
+                                                    <button class="btn btn-primary2 subscribe-btn" 
+                                                            data-user-id="@user.UserId" 
+                                                            data-action="subscribe">
+                                                        Follow
+                                                    </button>
+                                                }
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </table>
+                    </div>
+                    
+                    <!-- Pagination -->
+                    <div class="show_wrapper text-center mt-3">
+                        <nav>
+                            <ul class="pagination justify-content-center">
+                                @for (int i = 1; i <= Model.TotalPages; i++)
+                                {
+                                    <li class="page-item @(Model.PageNumber == i ? "active" : "")">
+                                        <a class="page-link mx-3" 
+                                           href="#" 
+                                           data-page="@i">@i</a>
+                                    </li>
+                                }
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--jquery-3.6.0 minified source-->
+<script src="~/js/vendor/jquery-3.6.0.min.js"></script>
+<!--bootstrap 5 minified bundle js source-->
+<script src="~/js/vendor/bootstrap.bundle.min.js"></script>
+<!--owl carousel-2.3.4 minified js source-->
+<script src="~/js/vendor/owl.carousel.min.js"></script>
+<!--jquery waypoints minified source-->
+<script src="~/js/vendor/jquery.waypoints.min.js"></script>
+
+@section Scripts {
+    <script src="~/js/subscribe_actions.js"></script>
+    <script src="~/js/user_search.js"></script>
+}
+
+<!--magnific popup-1.1.0 minified source-->
+<script src="~/js/vendor/jquery.magnific-popup.min.js"></script>
+<!--counter up-1.0.0 minified js source-->
+<script src="~/js/vendor/jquery.counterup.min.js"></script>
+<!--jquery nice select minified source-->
+<script src="~/js/vendor/jquery.nice-select.min.js"></script>
+<!--apexs chart minified js source-->
+<script src="~/js/vendor/apexcharts.min.js"></script>
+<!--apex chart customization js source-->
+<script src="~/js/vendor/apex-customization.js"></script>
+<!--wow animation js source-->
+<script src="~/js/vendor/wow.min.js"></script>
+<!--custom js source-->
+<script src="~/js/main.js"></script>
